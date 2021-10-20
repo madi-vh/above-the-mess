@@ -1,0 +1,10 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Above the Mess Podcast",
+	"icon": "https://micro.blog/AboveTheMess/avatar.jpg",
+	"home_page_url": "https://www.abovethemess.com/",
+	"feed_url": "https://www.abovethemess.com/feed.json",
+	"items": [
+		
+	]
+}
